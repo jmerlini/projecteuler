@@ -6,7 +6,7 @@ Given a triangle in a .txt file, find the maximum total from top to bottom. Sums
 
 ## Example
 
-By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
+In the following triangle, by starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
 <pre>
    3

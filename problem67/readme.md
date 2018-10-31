@@ -16,5 +16,5 @@ By starting at the top of the triangle below and moving to adjacent numbers on t
 
 That is, 3 + 7 + 4 + 9 = 23.
 
-Notice that 3 + 7 + 6 + 9 is invalid since 6 is not a child of 7.
+**Note:** 3 + 7 + 6 + 9 is invalid since 6 is not a child of 7.
 

@@ -17,7 +17,3 @@ In the following triangle, by starting at the top of the triangle below and movi
 That is, 3 + 7 + 4 + 9 = 23.
 
 **Note:** 3 + 7 + 6 + 9 is invalid since 6 is not a child of 7.
-
-## To Do
-
-The Project Euler problem had a triangle with 99 lines, so the code work specifically for that triangle. Need to generalize it for any triangle.

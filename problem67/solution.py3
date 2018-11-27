@@ -7,8 +7,8 @@ def maxPath(filename)
     num_lines = sum(1 for line in open(filename, 'r'))
 
     # Starts at the second to last row and adds maximum child to that entry and propegates upwards.
-    for k in range(0,num_lines - 1):
-        for i in range(0,num_lines-k - 1):
+    for k in range(0, num_lines - 1):
+        for i in range(0,num_lines - k - 1):
             top_row = num_lines - k - 2
             bottom_row = num_lines - k - 1
             myarray[top_row][i] = int(myarray[top_row][i]) + max(int(myarray[bottom_row][i + 1]),int(myarray[bottom_row][i]))

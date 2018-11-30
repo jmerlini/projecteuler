@@ -2,7 +2,7 @@
 
 ## Problem
 
-Given a triangle in a .txt file, find the maximum total from top to bottom. Sums are found by starting at the top and adding to it either the left child or right child and so, on until you reach the bottom.
+Given a triangle in a .txt file, find the maximum total from top to bottom. Sums are found by starting at the top and adding to it either the left child or right child and so on, until you reach the bottom.
 
 ## Example
 

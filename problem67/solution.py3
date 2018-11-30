@@ -1,4 +1,4 @@
-def maxPath(filename)
+def maxPath(filename):
     # opens file into f and sets an array for each number from top to bottom, left to right e.g. for [1,2,3], 2 would be 1's left child and 3 would be 1's right child.
     with open(filename, 'r') as f:
         myarray = [line.split() for line in f]
